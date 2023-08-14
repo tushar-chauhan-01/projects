@@ -22,3 +22,7 @@ Welcome to the list of projects I built over time to keep learning new technolog
 12. Flight Dashboard [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/7%20-%20DATA%20VISUALIZATION%20WITH%20PYTHON/11%20-%20Final%20Assignment%20-%20flight_dashboard.py)
 
 13. Analysing Of Chicago's SocioEconomic, Public Schools and Crime using SQL [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/5%20-%20DATABABSE%20AND%20SQL%20FOR%20DATASCIENCE/15%20-%20Final%20ASSIGNMENT.ipynb)
+
+14. Extracting and Visualizing Stock Data [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/4%20-%20PYTHON%20PROJECT%20FOR%20DATA%20SCIENCE/Final%20Assignment%20-%20Extracting%20And%20Visualizing%20Data.ipynb)
+
+
