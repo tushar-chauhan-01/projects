@@ -12,3 +12,9 @@ Welcome to the list of projects I built over time to keep learning new technolog
 7. Telecom Customer Churn Rate Probability Prediction [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/8%20-%20MACHINE%20LEARNING%20WITH%20PYTHON/8%20-%20Logistic%20Regression%20-%20Telecom%20customer%20churn%20rate.ipynb)
 
 8. Cancerous Or Non Cancerous Human Cell Prediction [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/8%20-%20MACHINE%20LEARNING%20WITH%20PYTHON/9%20-%20SVM%20(Support%20Vector%20Machines)%20-%20cancerous%20or%20non%20cancerous%20human%20cell%20detection.ipynb)
+
+9. Iris Dataset - Multi Class Flower Detection [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/8%20-%20MACHINE%20LEARNING%20WITH%20PYTHON/10%20-%20Iris%20dataset%20-%20Softmax%20Regression%20%2COne-vs-All%20%26%20One-vs-One%20for%20Multi-class%20Classification.ipynb)
+
+10. Content Based Movie Recommendation System [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/8%20-%20MACHINE%20LEARNING%20WITH%20PYTHON/13%20-%20Content-based%20Recommendation%20Systems%20(%20movie%20).ipynb)
+
+11. Collaborative Filtering Movie Recommendation System [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/8%20-%20MACHINE%20LEARNING%20WITH%20PYTHON/14%20-%20Collaborative%20Filtering%20Recommendation%20System%20(%20movies%20).ipynb)
