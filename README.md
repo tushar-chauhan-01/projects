@@ -18,3 +18,7 @@ Welcome to the list of projects I built over time to keep learning new technolog
 10. Content Based Movie Recommendation System [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/8%20-%20MACHINE%20LEARNING%20WITH%20PYTHON/13%20-%20Content-based%20Recommendation%20Systems%20(%20movie%20).ipynb)
 
 11. Collaborative Filtering Movie Recommendation System [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/8%20-%20MACHINE%20LEARNING%20WITH%20PYTHON/14%20-%20Collaborative%20Filtering%20Recommendation%20System%20(%20movies%20).ipynb)
+
+12. Flight Dashboard [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/7%20-%20DATA%20VISUALIZATION%20WITH%20PYTHON/11%20-%20Final%20Assignment%20-%20flight_dashboard.py)
+
+13. Analysing Of Chicago's SocioEconomic, Public Schools and Crime using SQL [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/5%20-%20DATABABSE%20AND%20SQL%20FOR%20DATASCIENCE/15%20-%20Final%20ASSIGNMENT.ipynb)
