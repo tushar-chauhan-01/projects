@@ -8,7 +8,6 @@
 2. Rain Prediction [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/8%20-%20MACHINE%20LEARNING%20WITH%20PYTHON/Final%20Project%20-%20Rain%20Prediction%20(%20Lin_Reg%2C%20Log_reg%2C%20Knn%2C%20Decision_reg%2C%20svm%20).ipynb)
 
 3. Dog Breed Identification ( Multi Class Image Prediction ) [Project Link](https://github.com/tushar-chauhan-01/DATA-SCIENCE/blob/main/DOG%20BREED%20CLASSIFICATION%20PROJECT(MULTI_CLASS%20IMAGE%20CLASSIFICATION)/Dog%20breeds%20classification.ipynb)
-4. 
 5. Credit Card Fraud Detection [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/8%20-%20MACHINE%20LEARNING%20WITH%20PYTHON/5%20-%20Credit%20Card%20Fraud%20Detection%20using%20Scikit-Learn%20and%20Snap%20ML%20(Decision%20Tree%20vs%20SVM%20).ipynb)
 
 6. House Prices Prediction [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/8%20-%20MACHINE%20LEARNING%20WITH%20PYTHON/6%20-%20Regression%20Tree%20for%20predicting%20house%20prices.ipynb)
