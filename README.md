@@ -30,4 +30,4 @@
 
 15. Extracting and Visualizing Stock Data [Project Link](https://github.com/tushar-chauhan-01/IBM-Data-Science/blob/main/4%20-%20PYTHON%20PROJECT%20FOR%20DATA%20SCIENCE/Final%20Assignment%20-%20Extracting%20And%20Visualizing%20Data.ipynb)
 
-
+16. (Poetry Generation) Text Generation With RNN [Project Link](https://github.com/tushar-chauhan-01/Google-Generative-AI-Path/blob/main/Text%20Generation%20With%20RNN.ipynb)
