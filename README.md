@@ -34,6 +34,6 @@
 
 17. FastApi using Python along with basics concepts [Project Link](https://github.com/tushar-chauhan-01/FastApi-With-Python-Basics)
    
-18. Java For DSA [Project Link]()
+18. Java For DSA [Project Link](https://github.com/tushar-chauhan-01/Java-DSA)
 
-19. Web Api using Go, Postgres, Jwt authentication [Project Link]()
+19. Web Api using Go, Postgres, Jwt authentication [Project Link](https://github.com/tushar-chauhan-01/Go-Project-JWT-Postgres-Docker-Api-)
