@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Find all my work here </h1>
-<h3 align="center">Welcome to the list of projects I built over time to keep learning new technologies and upskill. </h3>
+<h3 align="center">Welcome to the list of projects I built over time to keep learning new technologies and upskilling myself. </h3>
 
 ## Projects
 
