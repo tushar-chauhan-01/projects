@@ -33,3 +33,7 @@
 16. (Poetry Generation) Text Generation With RNN [Project Link](https://github.com/tushar-chauhan-01/Google-Generative-AI-Path/blob/main/Text%20Generation%20With%20RNN.ipynb)
 
 17. FastApi using Python along with basics concepts [Project Link](https://github.com/tushar-chauhan-01/FastApi-With-Python-Basics)
+   
+18. Java For DSA [Project Link]()
+
+19. Web Api using Go, Postgres, Jwt authentication [Project Link]()
